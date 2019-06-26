@@ -2,9 +2,6 @@
 
 ## homework1
 ### hw1任务:用梯度下降法预测PM2.5值
-### train -- 训练数据
-### test -- 测试数据
-### ans -- 标准答案
 ### hw1_preprocess -- 数据处理代码部分
 ### hw1_model -- 建模部分
 
